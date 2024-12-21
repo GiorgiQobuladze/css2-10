@@ -1,0 +1,182 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    padding: 64px 158px 368px 158px;
+}
+
+.mainConteiner {
+    padding: 96px;
+    background: #E2F7FF;
+}
+
+.divContainer {
+    padding: 96px;
+}
+
+.imagediv {
+    padding: 0px 32px;
+}
+
+.Olivia {
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.review {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.compelling {
+    color: #535862;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.displaydiv {
+    display: inline-block;
+    margin-top: 24px;
+}
+
+.Design {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6941C6;
+}
+
+.Research {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #3538CD;
+}
+
+.Presentation {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #C11574;
+}
+
+.Box {
+    margin-top: 64px;
+}
+
+.imagearrow {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.divBox {
+    width: 384px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Product {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #026AA2;
+}
+
+.Tools {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #C11574;
+}
+
+.Software {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #067647;
+}
+
+.divBoxone {
+    width: 384px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 26px;
+}
+
+.Leadership {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6941C6;
+}
+
+.Management {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #363F72;
+}
+
+.Boxdiv {
+    margin-top: 48px;
+}
+
+.Frameworks {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #B93815;
+}
+
+.Design {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6941C6;
+}
